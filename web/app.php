@@ -1,4 +1,5 @@
 <?php
+echo 1;
 
 //ini_set('display_errors', 'On');
 use Symfony\Component\HttpFoundation\Request;
